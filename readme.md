@@ -29,27 +29,6 @@ Design an application which hostel students can use to get their rooms cleaned o
 
 --------------
 
-### Frontend Screens - User level
-![u1 - Housekeeper Web App](1.png)
-
-![u1 - Housekeeper Web App](2.png)
-
-![u1 - Housekeeper Web App](3.png)
-
-![u1 - Housekeeper Web App](4.png)
-
-![u1 - Housekeeper Web App](5.png)
 
 --------------
 
-### Frontend Screens - Admin level
-
-![u1 - Housekeeper Web App](7.png)
-
-![u1 - Housekeeper Web App](8.png)
-
-![u1 - Housekeeper Web App](9.png)
-
-![u1 - Housekeeper Web App](10.png)
-
-------------------------
